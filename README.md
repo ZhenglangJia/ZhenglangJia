@@ -9,33 +9,40 @@ Feel free to browse my profile, and feel free to contact me for potential academ
 ## 📚 Selected Publications
 
 ### 2025
-- **A Physics-Embedded Deep Learning Method for Pattern Recovery of Phased Array Antenna With Deformation**  
+- **A Physics-Embedded Deep Learning Method for Pattern Recovery of Phased Array Antenna With Deformation**
+  **Zheng Lang Jia**, Jie Yang, Hong Wei Gao, Bian Wu, Ying Liu, Huan Huan Zhang.
   IEEE Transactions on Antennas and Propagation.  
   Link: https://doi.org/10.1109/TAP.2025.3611130
 
-- **A Sources Reconstruction and Auxiliary Training Two-Stage Network for Fault Diagnosis of Antenna Arrays**  
+- **A Sources Reconstruction and Auxiliary Training Two-Stage Network for Fault Diagnosis of Antenna Arrays**
+  **Zheng Lang Jia**, Qing Cai, Huan Huan Zhang, Jinzhu Zhou.
   IEEE Transactions on Antennas and Propagation.  
   Link: https://doi.org/10.1109/TAP.2025.3560068
 
-- **Electromagnetic-Thermal Cosimulation via Divide-and-Conquer PINNs**  
+- **Electromagnetic-Thermal Cosimulation via Divide-and-Conquer PINNs**
+  **Zheng Lang Jia**, Bian Wu, Ying Liu, Huan Huan Zhang.
   IEEE Antennas and Wireless Propagation Letters.  
   Link: https://doi.org/10.1109/LAWP.2025.3595089
 
-- **ETC-Net: Electromagnetic-thermal co-simulation network for microstrip patch antenna arrays inspired by mutiphysics chain-of-thought**  
+- **ETC-Net: Electromagnetic-thermal co-simulation network for microstrip patch antenna arrays inspired by mutiphysics chain-of-thought**
+  **Zhenglang Jia**, Huanhuan Zhang, Heming Yao, Bian Wu, Ying Liu, Jimin Liang. 
   Engineering Analysis with Boundary Elements.  
   Link: https://doi.org/10.1016/j.enganabound.2025.106324
 
 ### 2024
-- **Electromagnetic-Circuital-Thermal-Mechanical Multiphysics Numerical Simulation Method for Microwave Circuits**  
+- **Electromagnetic-Circuital-Thermal-Mechanical Multiphysics Numerical Simulation Method for Microwave Circuits**
+  Huan Huan Zhang, **Zheng Lang Jia**, Peng Fei Zhang, Ying Liu, Li Jun Jiang, Da Zhi Ding. 
   IEEE Journal on Multiscale and Multiphysics Computational Techniques.  
   Link: https://doi.org/10.1109/JMMCT.2024.3372619
 
 ### 2023
-- **Temperature-drift effect analysis of microstrip filters based on parallel high-order DGTD and FETD method with memory reduction technique**  
+- **Temperature-drift effect analysis of microstrip filters based on parallel high-order DGTD and FETD method with memory reduction technique**
+  **Zhenglang Jia**, Huanhuan Zhang, Panpan Wang, Wei E.I. Sha.
   Engineering Analysis with Boundary Elements.  
   Link: https://doi.org/10.1016/j.enganabound.2023.07.027
 
-- **Time-Domain Shielding Effectiveness Analysis Based on DGTD Method Accelerated by Local Time-Stepping and Parallel Techniques**  
+- **Time-Domain Shielding Effectiveness Analysis Based on DGTD Method Accelerated by Local Time-Stepping and Parallel Techniques**
+  **Zheng Lang Jia**, Huan Huan Zhang, Da Zhi Ding, Lei Zhao, Qiang Ren, Li Jun Jiang.
   IEEE Transactions on Electromagnetic Compatibility.  
   Link: https://doi.org/10.1109/temc.2023.3239162
 
