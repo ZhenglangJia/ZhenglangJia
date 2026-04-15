@@ -80,7 +80,14 @@ Feel free to browse my profile, and feel free to contact me for potential academ
   *2021 13th Global Symposium on Millimeter-Waves & Terahertz (GSMM).* <br>
   Link: https://doi.org/10.1109/GSMM53250.2021.9511992
 
+## 🏆 Honors & Awards
 
+- **National Scholarship**, [Xidian University / 2025]  
+- **Funding for Outstanding Doctoral Dissertation**, [Xidian University / 2025]
+- **Outstanding Graduate Student Award**, [Xidian University / 2025]  
+- **Excellent Paper Award (First Prize)**, [National Key Laboratory of Radar Detection and Sensing / 2025]
+- **Most Popular Award**, [National Key Laboratory of Radar Detection and Sensing / 2025]
+  
 ## 📬 Get in Touch
 
 - **Email**: 375580404@qq.com
