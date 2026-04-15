@@ -16,12 +16,12 @@ Feel free to browse my profile, and feel free to contact me for potential academ
 
 - **A Sources Reconstruction and Auxiliary Training Two-Stage Network for Fault Diagnosis of Antenna Arrays**<br>
   **Zheng Lang Jia**, Qing Cai, Huan Huan Zhang, Jinzhu Zhou.<br>
-  *IEEE Transactions on Antennas and Propagation (Journal-Selected Featured Article), 2025.* <br>
+  *IEEE Transactions on Antennas and Propagation, 2025.* <br>
   Link: https://doi.org/10.1109/TAP.2025.3560068
 
 - **Electromagnetic-Thermal Cosimulation via Divide-and-Conquer PINNs**<br>
   **Zheng Lang Jia**, Bian Wu, Ying Liu, Huan Huan Zhang.<br>
-  *IEEE Antennas and Wireless Propagation Letters (Journal-Selected Featured Article), 2025.* <br>
+  *IEEE Antennas and Wireless Propagation Letters, 2025.* <br>
   Link: https://doi.org/10.1109/LAWP.2025.3595089
 
 - **ETC-Net: Electromagnetic-thermal co-simulation network for microstrip patch antenna arrays inspired by mutiphysics chain-of-thought**<br>
@@ -31,7 +31,7 @@ Feel free to browse my profile, and feel free to contact me for potential academ
 
 - **Electromagnetic-Circuital-Thermal-Mechanical Multiphysics Numerical Simulation Method for Microwave Circuits**<br>
   Huan Huan Zhang, **Zheng Lang Jia (Student First Author)**, Peng Fei Zhang, Ying Liu, Li Jun Jiang, Da Zhi Ding.<br>
-  *IEEE Journal on Multiscale and Multiphysics Computational Techniques (Journal-Selected Featured Article), 2024.* <br>
+  *IEEE Journal on Multiscale and Multiphysics Computational Techniques, 2024.* <br>
   Link: https://doi.org/10.1109/JMMCT.2024.3372619
 
 - **Temperature-drift effect analysis of microstrip filters based on parallel high-order DGTD and FETD method with memory reduction technique**<br>
