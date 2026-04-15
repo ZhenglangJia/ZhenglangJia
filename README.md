@@ -10,7 +10,7 @@ Feel free to browse my profile, and feel free to contact me for potential academ
 
 ### 2025
 - **A Physics-Embedded Deep Learning Method for Pattern Recovery of Phased Array Antenna With Deformation**
-  **Zheng Lang Jia**, Jie Yang, Hong Wei Gao, Bian Wu, Ying Liu, Huan Huan Zhang.
+-   **Zheng Lang Jia**, Jie Yang, Hong Wei Gao, Bian Wu, Ying Liu, Huan Huan Zhang.
   IEEE Transactions on Antennas and Propagation.  
   Link: https://doi.org/10.1109/TAP.2025.3611130
 
