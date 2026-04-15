@@ -30,7 +30,7 @@ Feel free to browse my profile, and feel free to contact me for potential academ
   Link: https://doi.org/10.1016/j.enganabound.2025.106324
 
 - **Electromagnetic-Circuital-Thermal-Mechanical Multiphysics Numerical Simulation Method for Microwave Circuits**<br>
-  Huan Huan Zhang, **Zheng Lang Jia**, Peng Fei Zhang, Ying Liu, Li Jun Jiang, Da Zhi Ding.<br>
+  Huan Huan Zhang, **Zheng Lang Jia**, Peng Fei Zhang, Ying Liu, Li Jun Jiang, Da Zhi Ding (Student First Author).<br>
   *IEEE Journal on Multiscale and Multiphysics Computational Techniques, 2024.* <br>
   Link: https://doi.org/10.1109/JMMCT.2024.3372619
 
