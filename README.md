@@ -48,37 +48,37 @@ Feel free to browse my profile, and feel free to contact me for potential academ
 - **Deep Learning-based Two-Stage Electromagnetic-Thermal Co-Simulation of Microstrip Antenna Arrays**<br>
   **Zheng Lang Jia**, Huan Huan Zhang, Xian Liang Zeng, Wei Jun Wu, Li Wang.<br>
   *2025 International Applied Computational Electromagnetics Society Symposium (ACES-China).* <br>
-  Link: https://doi.org/
+  Link: https://doi.org/10.23919/ACES-China66523.2025.11332910
 
 - **A Fast CNN-Based Temperature Solver for Microstrip Antenna Arrays**<br>
   **Zheng Lang Jia**, Zhi Peng Du, Zheng Jun Shen, Huan Huan Zhang.<br>
   *2025 IEEE MTT-S International Conference on Numerical Electromagnetic and Multiphysics Modeling and Optimization (NEMO).* <br>
-  Link: https://doi.org/
+  Link: https://doi.org/10.1109/NEMO62710.2025.11215386
 
 - **A Fast Forward Solver for 3D Gain Pattern of Microstrip Antenna Arrays Based on CNNs**<br>
   **Zheng Lang Jia**, Huan Huan Zhang, Qing Nan Fan, Li Lan Zhu.<br>
   *2024 International Applied Computational Electromagnetics Society Symposium (ACES-China).* <br>
-  Link: https://doi.org/
+  Link: https://doi.org/10.1109/ACES-China62474.2024.10699524
 
 - **Electromagnetic-Thermal-Stress Multiphysics Simulation of Microwave Filter**<br>
   **Zheng Lang Jia**, Xin Yi Liu, Huan Huan Zhang.<br>
   *2023 Photonics & Electromagnetics Research Symposium (PIERS).* <br>
-  Link: https://doi.org/
+  Link: https://doi.org/10.1109/PIERS59004.2023.10221539
 
 - **Analysis of the Shielding Effectiveness of Chassis Based on DGTD Method**<br>
   **Zheng Lang Jia**, Lei Zhao, Zhao Sheng Xue, Ying Liu, Huan Huan Zhang, L. J. Jiang.<br>
   *2022 International Applied Computational Electromagnetics Society Symposium (ACES-China).* <br>
-  Link: https://doi.org/
+  Link: https://doi.org/10.1109/ACES-China56081.2022.10064731
 
 - **Electromagnetic-circuital-thermal Multiphysics Simulation of Microwave Amplifier**<br>
   **Zheng Lang Jia**, Zhao Sheng Xue, Xin Yi Liu, Huan Huan Zhang.<br>
   *2022 Photonics & Electromagnetics Research Symposium (PIERS).* <br>
-  Link: https://doi.org/
+  Link: https://doi.org/10.1109/PIERS55526.2022.9792751
 
 - **Electromagnetic-Circuital-Thermal Multiphysics Simulation Based on DGTD and FETD Method with Higher-Order Basis Functions**<br>
   **Zheng Lang Jia**, Pan Pan Wang, Huan Huan Zhang, Da Zhi Ding.<br>
   *2021 13th Global Symposium on Millimeter-Waves & Terahertz (GSMM).* <br>
-  Link: https://doi.org/
+  Link: https://doi.org/10.1109/GSMM53250.2021.9511992
 
 
 ## 📬 Get in Touch
