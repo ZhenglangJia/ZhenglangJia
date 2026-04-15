@@ -1,9 +1,4 @@
-# 👋 Hi there, I'm Zhenglang Jia
-
-**PhD Student** in Electronic Science and Technology.  
-[Xidian University] | [Xi'an, China]
-
-## 🔬 About Me
+# 🤝 Hi there, I'm Zhenglang Jia
 
 I received the B.S. degree in Electronic and Information Engineering in 2020 and the M.S. degree in Electromagnetic Field and Microwave Technology in 2023, both from Xidian University, Xi’an, China. I am currently pursuing the Ph.D. degree at Xidian University.
 
@@ -14,51 +9,37 @@ Feel free to browse my profile, and feel free to contact me for potential academ
 ## 📚 Selected Publications
 
 ### 2025
-- **[Title of your most recent paper]**  
-  *Journal/Conference Name*, 2025.  
-  [[PDF](link)] [[Code](https://github.com/...)] [[arXiv](link)]
+- **A Physics-Embedded Deep Learning Method for Pattern Recovery of Phased Array Antenna With Deformation**  
+  IEEE Transactions on Antennas and Propagation.  
+  DOI: 10.1109/TAP.2025.3611130
 
-- **[Another paper title]**  
-  *Venue*, 2025.  
-  [[PDF](link)] [[Code](link)]
+- **A Sources Reconstruction and Auxiliary Training Two-Stage Network for Fault Diagnosis of Antenna Arrays**  
+  IEEE Transactions on Antennas and Propagation.  
+  DOI: 10.1109/TAP.2025.3560068
+
+- **Electromagnetic-Thermal Cosimulation via Divide-and-Conquer PINNs**  
+  IEEE Antennas and Wireless Propagation Letters.  
+  DOI: 10.1109/LAWP.2025.3595089
+
+- **ETC-Net: Electromagnetic-thermal co-simulation network for microstrip patch antenna arrays inspired by mutiphysics chain-of-thought**  
+  Engineering Analysis with Boundary Elements.  
+  DOI: 10.1016/j.enganabound.2025.106324
 
 ### 2024
-- **[Paper title]**  
-  *Venue*, 2024.  
-  [[PDF](link)] [[arXiv](link)]
+- **Electromagnetic-Circuital-Thermal-Mechanical Multiphysics Numerical Simulation Method for Microwave Circuits**  
+  IEEE Journal on Multiscale and Multiphysics Computational Techniques.  
+  DOI: 10.1109/JMMCT.2024.3372619
 
-*(For a full list, please see my [Google Scholar](https://scholar.google.com/...), [CV](link-to-cv.pdf), or [Publications page](./publications.md))* 
+### 2023
+- **Temperature-drift effect analysis of microstrip filters based on parallel high-order DGTD and FETD method with memory reduction technique**  
+  Engineering Analysis with Boundary Elements.  
+  DOI: 10.1016/j.enganabound.2023.07.027
 
-## 🧪 Research Projects
-
-- **[Project Name 1]** — Short description (1-2 lines). [[Website](link)] [[Code](github-link)]
-- **[Project Name 2]** — Short description. [[Demo](link)]
-
-## 🎓 Teaching & Supervision
-
-- **[Course Name]** (Year) — Role (e.g., Teaching Assistant / Lecturer) at [Institution]
-- Supervising [number] undergraduate/master students on topics related to [your area]
+- **Time-Domain Shielding Effectiveness Analysis Based on DGTD Method Accelerated by Local Time-Stepping and Parallel Techniques**  
+  IEEE Transactions on Electromagnetic Compatibility.  
+  DOI: 10.1109/temc.2023.3239162
 
 ## 📬 Get in Touch
-
-- **Email**: your.email@institution.edu
-- **Office**: [Building & Room, if applicable]
-- **Twitter/X**: [@yourhandle](https://twitter.com/yourhandle)
-- **Bluesky / Mastodon**: [links]
-
-Feel free to reach out if you are interested in collaboration, have questions about my research, or just want to chat!
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-*(You can remove or customize the stats section if you prefer a cleaner look)*
-
----
-
-## ⭐ Get in Touch
 
 - **Email**: 375580404@qq.com
 - **ORCID**: [[link]](https://orcid.org/0000-0001-5780-2432)
