@@ -45,7 +45,10 @@ Feel free to browse my profile, and feel free to contact me for potential academ
   Link: https://doi.org/10.1109/temc.2023.3239162
 
 ### Conference Papers
-
+- **Deep Learning-based Two-Stage Electromagnetic-Thermal Co-Simulation of Microstrip Antenna Arrays**<br>
+  **Zheng Lang Jia**, Huan Huan Zhang, Xian Liang Zeng, Wei Jun Wu, Li Wang.<br>
+  *2025 International Applied Computational Electromagnetics Society Symposium (ACES-China).* <br>
+  Link: https://doi.org/
 
 
 ## 📬 Get in Touch
