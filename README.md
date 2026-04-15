@@ -50,6 +50,36 @@ Feel free to browse my profile, and feel free to contact me for potential academ
   *2025 International Applied Computational Electromagnetics Society Symposium (ACES-China).* <br>
   Link: https://doi.org/
 
+- **A Fast CNN-Based Temperature Solver for Microstrip Antenna Arrays**<br>
+  **Zheng Lang Jia**, Zhi Peng Du, Zheng Jun Shen, Huan Huan Zhang.<br>
+  *2025 IEEE MTT-S International Conference on Numerical Electromagnetic and Multiphysics Modeling and Optimization (NEMO).* <br>
+  Link: https://doi.org/
+
+- **A Fast Forward Solver for 3D Gain Pattern of Microstrip Antenna Arrays Based on CNNs**<br>
+  **Zheng Lang Jia**, Huan Huan Zhang, Qing Nan Fan, Li Lan Zhu.<br>
+  *2024 International Applied Computational Electromagnetics Society Symposium (ACES-China).* <br>
+  Link: https://doi.org/
+
+- **Electromagnetic-Thermal-Stress Multiphysics Simulation of Microwave Filter**<br>
+  **Zheng Lang Jia**, Xin Yi Liu, Huan Huan Zhang.<br>
+  *2023 Photonics & Electromagnetics Research Symposium (PIERS).* <br>
+  Link: https://doi.org/
+
+- **Analysis of the Shielding Effectiveness of Chassis Based on DGTD Method**<br>
+  **Zheng Lang Jia**, Lei Zhao, Zhao Sheng Xue, Ying Liu, Huan Huan Zhang, L. J. Jiang.<br>
+  *2022 International Applied Computational Electromagnetics Society Symposium (ACES-China).* <br>
+  Link: https://doi.org/
+
+- **Electromagnetic-circuital-thermal Multiphysics Simulation of Microwave Amplifier**<br>
+  **Zheng Lang Jia**, Zhao Sheng Xue, Xin Yi Liu, Huan Huan Zhang.<br>
+  *2022 Photonics & Electromagnetics Research Symposium (PIERS).* <br>
+  Link: https://doi.org/
+
+- **Electromagnetic-Circuital-Thermal Multiphysics Simulation Based on DGTD and FETD Method with Higher-Order Basis Functions**<br>
+  **Zheng Lang Jia**, Pan Pan Wang, Huan Huan Zhang, Da Zhi Ding.<br>
+  *2021 13th Global Symposium on Millimeter-Waves & Terahertz (GSMM).* <br>
+  Link: https://doi.org/
+
 
 ## 📬 Get in Touch
 
