@@ -11,7 +11,7 @@ Feel free to browse my profile, and feel free to contact me for potential academ
 ### 2025
 - **A Physics-Embedded Deep Learning Method for Pattern Recovery of Phased Array Antenna With Deformation**  
   IEEE Transactions on Antennas and Propagation.  
-  DOI: 10.1109/TAP.2025.3611130
+  DOI: 10.1109/TAP.2025.3611130(https://doi.org/10.1109/TAP.2025.3611130)
 
 - **A Sources Reconstruction and Auxiliary Training Two-Stage Network for Fault Diagnosis of Antenna Arrays**  
   IEEE Transactions on Antennas and Propagation.  
