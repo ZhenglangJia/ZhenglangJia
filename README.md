@@ -85,8 +85,8 @@ Feel free to browse my profile, and feel free to contact me for potential academ
 - **National Scholarship**, [Xidian University / 2025]  
 - **Funding for Outstanding Doctoral Dissertation**, [Xidian University / 2025]
 - **Outstanding Graduate Student Award**, [Xidian University / 2024、2025]  
-- **Excellent Paper Award (First Prize)**, [National Key Laboratory of Radar Detection and Sensing / 2025]
-- **Most Popular Award**, [National Key Laboratory of Radar Detection and Sensing / 2025]
+- **Excellent Student Paper Award (First Prize)**, [National Key Laboratory of Radar Detection and Sensing / 2025]
+- **Most Popular Student Paper Award**, [National Key Laboratory of Radar Detection and Sensing / 2025]
   
 ## 📬 Get in Touch
 
