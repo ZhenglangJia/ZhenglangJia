@@ -2,7 +2,7 @@
 
 I have been at Xidian University since my undergraduate years: I received the B.S. degree in Electronic and Information Engineering in 2020 and the M.S. degree in Electromagnetic Field and Microwave Technology in 2023, both from Xidian University, and I am now a Ph.D. candidate here.
 
-My research interests include **computational electromagnetics**, **multiphysics modeling and simulation**, **AI for Science**, and **AI for Engineering**. I am particularly passionate about developing AI-driven approaches to accelerate traditional electromagnetic simulations and solve complex multiphysics problems.
+My research interests include **computational electromagnetics**, **multiphysics modeling and simulation**, **Scientific Machine Learning**, and **AI for Antenna System**. I am particularly passionate about developing AI-driven approaches to accelerate traditional electromagnetic simulations and solve complex multiphysics problems.
 
 Feel free to browse my profile, and feel free to contact me for potential academic exchanges or collaborations!
 
