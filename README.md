@@ -15,7 +15,7 @@ Feel free to browse my profile, and feel free to contact me for potential academ
   Link: https://doi.org/10.1109/TAP.2025.3611130
 
 - **A Sources Reconstruction and Auxiliary Training Two-Stage Network for Fault Diagnosis of Antenna Arrays**<br>
-  **Zheng Lang Jia**, Qing Cai, Huan Huan Zhang*, Jinzhu Zhou.<br>
+  **Zheng Lang Jia**, Qing Cai, Huan Huan Zhang*, Jin Zhu Zhou.<br>
   *IEEE Transactions on Antennas and Propagation, 2025.* <br>
   Link: https://doi.org/10.1109/TAP.2025.3560068
 
@@ -25,7 +25,7 @@ Feel free to browse my profile, and feel free to contact me for potential academ
   Link: https://doi.org/10.1109/LAWP.2025.3595089
 
 - **ETC-Net: Electromagnetic-thermal co-simulation network for microstrip patch antenna arrays inspired by mutiphysics chain-of-thought**<br>
-  **Zhenglang Jia**, Huanhuan Zhang*, Heming Yao, Bian Wu, Ying Liu, Jimin Liang.<br>
+  **Zheng Lang Jia**, Huan Huan Zhang*, He Ming Yao, Bian Wu, Ying Liu, Ji Min Liang.<br>
   *Engineering Analysis with Boundary Elements, 2025.* <br>
   Link: https://doi.org/10.1016/j.enganabound.2025.106324
 
@@ -35,7 +35,7 @@ Feel free to browse my profile, and feel free to contact me for potential academ
   Link: https://doi.org/10.1109/JMMCT.2024.3372619
 
 - **Temperature-drift effect analysis of microstrip filters based on parallel high-order DGTD and FETD method with memory reduction technique**<br>
-  **Zhenglang Jia**, Huanhuan Zhang*, Panpan Wang, Wei E.I. Sha.<br>
+  **Zheng Lang Jia**, Huan Huan Zhang*, Pan Pan Wang, Wei E.I. Sha.<br>
   *Engineering Analysis with Boundary Elements, 2023.* <br>
   Link: https://doi.org/10.1016/j.enganabound.2023.07.027
 
