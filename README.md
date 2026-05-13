@@ -9,6 +9,11 @@ Feel free to browse my profile, and feel free to contact me for potential academ
 ## 📚 Selected Publications
 
 ### Journal Papers
+- **A Deep Learning-Based Integrated Framework for Fault Diagnosis and Beam Recovery of Phased Array Antennas**<br>
+  Qing Cai, **Zheng Lang Jia**, He Ming Yao, Bian Wu, Ying Liu, Huan Huan Zhang*.<br>
+  *IEEE Transactions on Antennas and Propagation (JCR Q1), 2026.* <br>
+  Link: https://doi.org/10.1109/TAP.2026.3690196
+
 - **A Physics-Embedded Deep Learning Method for Pattern Recovery of Phased Array Antenna With Deformation**<br>
   **Zheng Lang Jia**, Jie Yang, Hong Wei Gao, Bian Wu, Ying Liu, Huan Huan Zhang*.<br>
   *IEEE Transactions on Antennas and Propagation (JCR Q1), 2025.* <br>
@@ -30,7 +35,7 @@ Feel free to browse my profile, and feel free to contact me for potential academ
   Link: https://doi.org/10.1016/j.enganabound.2025.106324
 
 - **Electromagnetic-Circuital-Thermal-Mechanical Multiphysics Numerical Simulation Method for Microwave Circuits**<br>
-  Huan Huan Zhang*, **Zheng Lang Jia (Student First Author)**, Peng Fei Zhang, Ying Liu, Li Jun Jiang, Da Zhi Ding.<br>
+  Huan Huan Zhang*, **Zheng Lang Jia**, Peng Fei Zhang, Ying Liu, Li Jun Jiang, Da Zhi Ding.<br>
   *IEEE Journal on Multiscale and Multiphysics Computational Techniques (JCR Q3), 2024.* <br>
   Link: https://doi.org/10.1109/JMMCT.2024.3372619
 
