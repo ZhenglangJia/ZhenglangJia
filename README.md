@@ -9,7 +9,7 @@ Feel free to browse my profile, and feel free to contact me for potential academ
 ## 📚 Publications
 
 ### Journal Papers
-## --- 2026 ---
+#### 2026
 - **Multiphysics-Inspired Neural Network for Efficient Beam Pattern Prediction of Radome-Enclosed High-Power Phased Array Antenna**<br>
   Zheng Jun Shen, **Zheng Lang Jia**, Bian Wu, Huan Huan Zhang*.<br>
   *IEEE Antennas and Wireless Propagation Letters (JCR Q1), 2026.* <br>
