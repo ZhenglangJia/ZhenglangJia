@@ -19,7 +19,8 @@ Feel free to browse my profile, and feel free to contact me for potential academ
   Qing Cai, **Zheng Lang Jia**, He Ming Yao, Bian Wu, Ying Liu, Huan Huan Zhang*.<br>
   *IEEE Transactions on Antennas and Propagation (JCR Q1), 2026.* <br>
   Link: https://doi.org/10.1109/TAP.2026.3690196
-
+  
+#### 2025
 - **A Physics-Embedded Deep Learning Method for Pattern Recovery of Phased Array Antenna With Deformation**<br>
   **Zheng Lang Jia**, Jie Yang, Hong Wei Gao, Bian Wu, Ying Liu, Huan Huan Zhang*.<br>
   *IEEE Transactions on Antennas and Propagation (JCR Q1), 2025.* <br>
@@ -40,11 +41,13 @@ Feel free to browse my profile, and feel free to contact me for potential academ
   *Engineering Analysis with Boundary Elements (JCR Q1), 2025.* <br>
   Link: https://doi.org/10.1016/j.enganabound.2025.106324
 
+#### 2024
 - **Electromagnetic-Circuital-Thermal-Mechanical Multiphysics Numerical Simulation Method for Microwave Circuits**<br>
   Huan Huan Zhang*, **Zheng Lang Jia （Student First Author）**, Peng Fei Zhang, Ying Liu, Li Jun Jiang, Da Zhi Ding.<br>
   *IEEE Journal on Multiscale and Multiphysics Computational Techniques (JCR Q3), 2024.* <br>
   Link: https://doi.org/10.1109/JMMCT.2024.3372619
 
+#### 2023
 - **Temperature-drift effect analysis of microstrip filters based on parallel high-order DGTD and FETD method with memory reduction technique**<br>
   **Zheng Lang Jia**, Huan Huan Zhang*, Pan Pan Wang, Wei E.I. Sha.<br>
   *Engineering Analysis with Boundary Elements (JCR Q1), 2023.* <br>
@@ -56,6 +59,7 @@ Feel free to browse my profile, and feel free to contact me for potential academ
   Link: https://doi.org/10.1109/temc.2023.3239162
 
 ### Conference Papers
+#### 2025
 - **Deep Learning-based Two-Stage Electromagnetic-Thermal Co-Simulation of Microstrip Antenna Arrays**<br>
   **Zheng Lang Jia**, Huan Huan Zhang*, Xian Liang Zeng, Wei Jun Wu, Li Wang.<br>
   *2025 International Applied Computational Electromagnetics Society Symposium (ACES-China).* <br>
@@ -81,6 +85,7 @@ Feel free to browse my profile, and feel free to contact me for potential academ
   *2025 IEEE 8th International Symposium on Electromagnetic Compatibility (ISEMC).* <br>
   Link: https://doi.org/10.1109/ISEMC68048.2025.11292104
 
+#### 2024
 - **A Fast Forward Solver for 3D Gain Pattern of Microstrip Antenna Arrays Based on CNNs**<br>
   **Zheng Lang Jia**, Huan Huan Zhang*, Qing Nan Fan, Li Lan Zhu.<br>
   *2024 International Applied Computational Electromagnetics Society Symposium (ACES-China).* <br>
@@ -101,6 +106,7 @@ Feel free to browse my profile, and feel free to contact me for potential academ
   *2024 Photonics & Electromagnetics Research Symposium (PIERS).* <br>
   Link: https://doi.org/10.1109/PIERS62282.2024.10618149
 
+#### 2023
 - **Electromagnetic-Thermal-Stress Multiphysics Simulation of Microwave Filter**<br>
   **Zheng Lang Jia**, Xin Yi Liu, Huan Huan Zhang*.<br>
   *2023 Photonics & Electromagnetics Research Symposium (PIERS).* <br>
@@ -116,6 +122,7 @@ Feel free to browse my profile, and feel free to contact me for potential academ
   *2023 International Applied Computational Electromagnetics Society Symposium (ACES-China).* <br>
   Link: https://doi.org/10.23919/ACES-China60289.2023.10249448
 
+#### 2022
 - **Analysis of the Shielding Effectiveness of Chassis Based on DGTD Method**<br>
   **Zheng Lang Jia**, Lei Zhao, Zhao Sheng Xue, Ying Liu, Huan Huan Zhang*, Li Jun Jiang.<br>
   *2022 International Applied Computational Electromagnetics Society Symposium (ACES-China).* <br>
@@ -136,6 +143,7 @@ Feel free to browse my profile, and feel free to contact me for potential academ
   *2022 IEEE Electrical Design of Advanced Packaging and Systems (EDAPS).* <br>
   Link: https://doi.org/10.1109/EDAPS56906.2022.9995117
 
+#### 2021
 - **Electromagnetic-Circuital-Thermal Multiphysics Simulation Based on DGTD and FETD Method with Higher-Order Basis Functions**<br>
   **Zheng Lang Jia**, Pan Pan Wang, Huan Huan Zhang*, Da Zhi Ding.<br>
   *2021 13th Global Symposium on Millimeter-Waves & Terahertz (GSMM).* <br>
