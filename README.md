@@ -9,6 +9,11 @@ Feel free to browse my profile, and feel free to contact me for potential academ
 ## 📚 Selected Publications
 
 ### Journal Papers
+- **Multiphysics-Inspired Neural Network for Efficient Beam Pattern Prediction of Radome-Enclosed High-Power Phased Array Antenna**<br>
+  Zheng Jun Shen, **Zheng Lang Jia**, Bian Wu, Huan Huan Zhang*.<br>
+  *IEEE Antennas and Wireless Propagation Letters (JCR Q1), 2026.* <br>
+  Link: https://doi.org/10.1109/LAWP.2026.3700117
+  
 - **A Deep Learning-Based Integrated Framework for Fault Diagnosis and Beam Recovery of Phased Array Antennas**<br>
   Qing Cai, **Zheng Lang Jia**, He Ming Yao, Bian Wu, Ying Liu, Huan Huan Zhang*.<br>
   *IEEE Transactions on Antennas and Propagation (JCR Q1), 2026.* <br>
