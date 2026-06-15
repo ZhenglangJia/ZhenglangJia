@@ -13,6 +13,7 @@ Feel free to browse my profile, and feel free to contact me for potential academ
 - **Multiphysics-Inspired Neural Network for Efficient Beam Pattern Prediction of Radome-Enclosed High-Power Phased Array Antenna**<br>
   Zheng Jun Shen, **Zheng Lang Jia**, Bian Wu, Huan Huan Zhang*.<br>
   *IEEE Antennas and Wireless Propagation Letters (JCR Q1), 2026.* <br>
+  <span style="color: #2563eb; font-weight: bold;">&bigstar; Honors: Selected as the Featured Article of this issue by the Editorial Board.</span><br>
   Link: https://doi.org/10.1109/LAWP.2026.3700117
   
 - **A Deep Learning-Based Integrated Framework for Fault Diagnosis and Beam Recovery of Phased Array Antennas**<br>
