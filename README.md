@@ -65,15 +65,55 @@ Feel free to browse my profile, and feel free to contact me for potential academ
   *2025 IEEE MTT-S International Conference on Numerical Electromagnetic and Multiphysics Modeling and Optimization (NEMO).* <br>
   Link: https://doi.org/10.1109/NEMO62710.2025.11215386
 
+- **A Deep Learning Method for Fault Diagnosis of Antenna Arrays**<br>
+  Qing Cai, **Zheng Lang Jia**, Qing Nan Fan, Huan Huan Zhang*.<br>
+  *2025 International Conference on Microwave and Millimeter Wave Technology (ICMMT).* <br>
+  Link: https://doi.org/10.1109/ICMMT65948.2025.11188714
+
+- **Radiation Pattern Recovery of Deformed Microstrip Array Antenna Based on Deep Learning Method**<br>
+  Jie Yang, **Zheng Lang Jia**, Qing Nan Fan, Huan Huan Zhang*.<br>
+  *2025 International Conference on Microwave and Millimeter Wave Technology (ICMMT).* <br>
+  Link: https://doi.org/10.1109/ICMMT65948.2025.11187803
+
+- **A Deep Learning-Based Solver for Radiation Pattern of Microstrip Antenna Arrays**<br>
+  Jie Yang, **Zheng Lang Jia**, Qing Cai, Heng Xi Zhu, Huan Huan Zhang*.<br>
+  *2025 IEEE 8th International Symposium on Electromagnetic Compatibility (ISEMC).* <br>
+  Link: https://doi.org/10.1109/ISEMC68048.2025.11292104
+
 - **A Fast Forward Solver for 3D Gain Pattern of Microstrip Antenna Arrays Based on CNNs**<br>
   **Zheng Lang Jia**, Huan Huan Zhang*, Qing Nan Fan, Li Lan Zhu.<br>
   *2024 International Applied Computational Electromagnetics Society Symposium (ACES-China).* <br>
   Link: https://doi.org/10.1109/ACES-China62474.2024.10699524
 
+- **Signal Integrity Analysis of Microwave Circuits Based on FETD Method**<br>
+  Heng Fei Ma, Zheng Liang Lv, Qing Nan Fan, Hang Liu, **Zheng Lang Jia**, Huan Huan Zhang*.<br>
+  *2024 IEEE 7th International Conference on Electronic Information and Communication Technology (ICEICT).* <br>
+  Link: https://doi.org/10.1109/ICEICT61637.2024.10671194
+
+- **Analysis of the Influence of Radome on Seeker Antenna with the Consideration of Multiphysics Effects**<br>
+  Qing Nan Fan, Heng Fei Ma, **Zheng Lang Jia**, Huan Huan Zhang*.<br>
+  *2024 Photonics & Electromagnetics Research Symposium (PIERS).* <br>
+  Link: https://doi.org/10.1109/PIERS62282.2024.10618095
+
+- **Signal Integrity Analysis of Integrated Circuits Based on DGTD Method**<br>
+  Heng Fei Ma, Qing Nan Fan, **Zheng Lang Jia**, Huan Huan Zhang*.<br>
+  *2024 Photonics & Electromagnetics Research Symposium (PIERS).* <br>
+  Link: https://doi.org/10.1109/PIERS62282.2024.10618149
+
 - **Electromagnetic-Thermal-Stress Multiphysics Simulation of Microwave Filter**<br>
   **Zheng Lang Jia**, Xin Yi Liu, Huan Huan Zhang*.<br>
   *2023 Photonics & Electromagnetics Research Symposium (PIERS).* <br>
   Link: https://doi.org/10.1109/PIERS59004.2023.10221539
+
+- **Electromagnetic-Thermal-Stress Multiphysics Simulation of Microwave Amplifier**<br>
+  Wei Jun Wu, Xin Yi Liu, Xian Liang Zeng, **Zheng Lang Jia**, Huan Huan Zhang*, Xiao Ying Zhong.<br>
+  *2023 International Applied Computational Electromagnetics Society Symposium (ACES-China).* <br>
+  Link: https://doi.org/10.23919/ACES-China60289.2023.10249452
+
+- **Multi-Physics Simulation of a Patch Antenna**<br>
+  Xin Yi Liu, Qing Nan Fan, **Zheng Lang Jia**, Zhao Sheng Xue, Heng Fei Ma, Huan Huan Zhang*.<br>
+  *2023 International Applied Computational Electromagnetics Society Symposium (ACES-China).* <br>
+  Link: https://doi.org/10.23919/ACES-China60289.2023.10249448
 
 - **Analysis of the Shielding Effectiveness of Chassis Based on DGTD Method**<br>
   **Zheng Lang Jia**, Lei Zhao, Zhao Sheng Xue, Ying Liu, Huan Huan Zhang*, Li Jun Jiang.<br>
@@ -84,6 +124,16 @@ Feel free to browse my profile, and feel free to contact me for potential academ
   **Zheng Lang Jia**, Zhao Sheng Xue, Xin Yi Liu, Huan Huan Zhang*.<br>
   *2022 Photonics & Electromagnetics Research Symposium (PIERS).* <br>
   Link: https://doi.org/10.1109/PIERS55526.2022.9792751
+
+- **Electromagnetic-Thermal Co-simulation of Microstrip Filter**<br>
+  Xin Yi Liu, **Zheng Lang Jia**, Huan Huan Zhang*, Ying Liu, W. E. I. Sha, Li Jun Jiang.<br>
+  *2022 International Applied Computational Electromagnetics Society Symposium (ACES-China).* <br>
+  Link: https://doi.org/10.1109/ACES-China56081.2022.10065053
+
+- **Electromagnetic-Thermal Co-simulation of a Patch Antenna**<br>
+  Xin Yi Liu, **Zheng Lang Jia**, Huan Huan Zhang*, Ying Liu, Mei Song Tong.<br>
+  *2022 IEEE Electrical Design of Advanced Packaging and Systems (EDAPS).* <br>
+  Link: https://doi.org/10.1109/EDAPS56906.2022.9995117
 
 - **Electromagnetic-Circuital-Thermal Multiphysics Simulation Based on DGTD and FETD Method with Higher-Order Basis Functions**<br>
   **Zheng Lang Jia**, Pan Pan Wang, Huan Huan Zhang*, Da Zhi Ding.<br>
