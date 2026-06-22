@@ -6,10 +6,8 @@ My research interests include **computational electromagnetics**, **multiphysics
 
 Feel free to browse my profile, and feel free to contact me for potential academic exchanges or collaborations!
 
-## 📚 Publications
-
+## 📚 Publications <small>_Note: <sup>&dagger;</sup> indicates the Master's student under my mentorship._</small>
 ### Journal Papers
-<small>_Note: <sup>&dagger;</sup> indicates the Master's student under my primary mentorship._</small>
 #### 2026
 - **Multiphysics-Inspired Neural Network for Efficient Beam Pattern Prediction of Radome-Enclosed High-Power Phased Array Antenna**<br>
   Zheng Jun Shen<sup>&dagger;</sup>, **Zheng Lang Jia**, Bian Wu, Huan Huan Zhang*.<br>
