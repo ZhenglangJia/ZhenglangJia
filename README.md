@@ -6,7 +6,7 @@ My research interests include **computational electromagnetics**, **multiphysics
 
 Feel free to browse my profile, and feel free to contact me for potential academic exchanges or collaborations!
 
-## 📚 Publications <small>_Note: <sup>&dagger;</sup> indicates the Master's student under my mentorship._</small>
+## 📚 Publications
 ### Journal Papers
 #### 2026
 - **Multiphysics-Inspired Neural Network for Efficient Beam Pattern Prediction of Radome-Enclosed High-Power Phased Array Antenna**<br>
@@ -56,6 +56,9 @@ Feel free to browse my profile, and feel free to contact me for potential academ
   **Zheng Lang Jia**, Huan Huan Zhang*, Da Zhi Ding, Lei Zhao, Qiang Ren, Li Jun Jiang.<br>
   *IEEE Transactions on Electromagnetic Compatibility (JCR Q3), 2023.* <br>
   Link: https://doi.org/10.1109/temc.2023.3239162
+
+---
+<small>*Note: <sup>&dagger;</sup> indicates the Master's student co-mentored by me.*</small>
 
 ### Conference Papers
 #### 2025
@@ -165,4 +168,4 @@ I am always open to academic collaborations, discussions on CEM and AI4Science t
 
 ---
 
-*Last updated: April 2026*
+*Last updated: June 2026*
