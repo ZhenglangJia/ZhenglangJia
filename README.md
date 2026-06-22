@@ -21,12 +21,12 @@ Feel free to browse my profile, and feel free to contact me for potential academ
   
 #### 2025
 - **A Physics-Embedded Deep Learning Method for Pattern Recovery of Phased Array Antenna With Deformation**<br>
-  **Zheng Lang Jia**, Jie Yang, Hong Wei Gao, Bian Wu, Ying Liu, Huan Huan Zhang*.<br>
+  **Zheng Lang Jia**, Jie Yang<sup>&dagger;</sup>, Hong Wei Gao, Bian Wu, Ying Liu, Huan Huan Zhang*.<br>
   *IEEE Transactions on Antennas and Propagation (JCR Q1), 2025.* <br>
   Link: https://doi.org/10.1109/TAP.2025.3611130
 
 - **A Sources Reconstruction and Auxiliary Training Two-Stage Network for Fault Diagnosis of Antenna Arrays**<br>
-  **Zheng Lang Jia**, Qing Cai, Huan Huan Zhang*, Jin Zhu Zhou.<br>
+  **Zheng Lang Jia**, Qing Cai<sup>&dagger;</sup>, Huan Huan Zhang*, Jin Zhu Zhou.<br>
   *IEEE Transactions on Antennas and Propagation (JCR Q1), 2025.* <br>
   Link: https://doi.org/10.1109/TAP.2025.3560068
 
@@ -58,7 +58,10 @@ Feel free to browse my profile, and feel free to contact me for potential academ
   Link: https://doi.org/10.1109/temc.2023.3239162
 
 ---
-<small>*Note: <sup>&dagger;</sup> indicates the Master's student co-mentored by me.*</small>
+<small>
+* <sup>*</sup> <i>Corresponding author (my Ph.D. advisor)</i>
+* <sup>&dagger;</sup> <i>Master's student under my daily supervision / co-mentored by me</i>
+</small>
 
 ### Conference Papers
 #### 2025
