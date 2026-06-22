@@ -59,7 +59,7 @@ Feel free to browse my profile, and feel free to contact me for potential academ
 
 ---
 <small>
-* <sup>*</sup> <i>Corresponding author (my Ph.D. advisor)</i>
+* <sup>*</sup> <i>Corresponding author (my Ph.D. advisor)</i><br>
 * <sup>&dagger;</sup> <i>Master's student under my daily supervision / co-mentored by me</i>
 </small>
 
